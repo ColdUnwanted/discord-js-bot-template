@@ -1,0 +1,5 @@
+{
+    "description": "Check bot's ping",
+    "title": "| 📶 Bot -> Discord Ping",
+    "message": "Websocket: **{{websocket}}**\nAPI: **{{api}}**"
+}

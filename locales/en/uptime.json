@@ -1,0 +1,5 @@
+{
+	"description": "Check bot's uptime",
+	"title": "| ⏳ Bot's Uptime",
+	"message": "Uptime: **{{days}}** day(s), **{{hours}}** hours, **{{minutes}}** minutes, **{{seconds}}** seconds"
+}

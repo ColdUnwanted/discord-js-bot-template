@@ -1,0 +1,10 @@
+{
+    "cooldownTitle": "Chill Out Y'all, We Can think This Through!",
+    "cooldownMessage": "This command can be used again in **{{time}}**",
+    "interactionError": "Sorry, there was an error executing this {{type}}!",
+    "interactionAuthorError": "Hey! It's not your requested command, shoo!",
+    "permissionError": "You do not have the required permission to run this command!",
+    "interactionPermissionError": "Sorry! I do not have the permission to send to this channel!",
+    "botNotInitialized": "Please wait while the bot is still initializing!",
+    "botNotInitializedTitle": "Bot Is Still Initializing!"
+}
